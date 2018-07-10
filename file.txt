@@ -1,8 +1,9 @@
 Le Duc Toan
 Dai hoc bach khoa ha noi
- git int
+ git int:tao local
+git add tenfile: them 1 file
 ls
 git remote add origin linkhttps tren github
 git fetch: kiem tra co gif tren repos/github
 git statas: kiem tra trang thai local
-git puull origin master: day file vua tao len 1 nhanh tren github(nhanh master)
+git push origin master: day file vua tao len 1 nhanh tren github(nhanh master)
