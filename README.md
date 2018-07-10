@@ -1,3 +1,4 @@
 # demo
 <?php
+<div></div>
 ?>
